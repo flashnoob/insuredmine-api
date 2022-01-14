@@ -8,6 +8,11 @@
 
 > REST API for crud operations and uploading csv.
 
+## Features
+
+- Import a csv file and insert it into db.
+- crud operations on different entity
+
 ## Install
 
 ```sh
@@ -25,7 +30,11 @@ npm run dev
 ```sh
 npm run test
 ```
-
+Verify the installation and check docs by navigating to your server address in
+your preferred browser.
+```sh
+127.0.0.1:3000/docs
+```
 ## Author
 
 👤 **sachin kotian**
