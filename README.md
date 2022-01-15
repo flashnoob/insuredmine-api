@@ -35,6 +35,10 @@ your preferred browser.
 ```sh
 127.0.0.1:3000/docs
 ```
+Csv upload route 
+```sh
+127.0.0.1:3000/data/csv
+```
 ## Author
 
 👤 **sachin kotian**
